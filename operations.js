@@ -8,3 +8,11 @@ console.log(n3-n2)
 console.log(n1*n3)
 console.log(n2/n3)
 console.log(n1%n3)
+
+//l'addition dans differrents cas
+12 + 12 = 24        // number + number = number
+"12" + 12 = "1212"  // = "12" + "12" le number est converti en string + concatenation
+"5" * 6 = 30        // = 5 * 6; string * number = number, le string est converti en number
+
+//concatenation = collage de 2 strings
+"bonjour" + " les amis"
