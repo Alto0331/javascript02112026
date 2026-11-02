@@ -9,10 +9,17 @@ console.log(n1*n3)
 console.log(n2/n3)
 console.log(n1%n3)
 
+console.log("n1 vaut : " + n1)
+
 //l'addition dans differrents cas
-12 + 12 = 24        // number + number = number
-"12" + 12 = "1212"  // = "12" + "12" le number est converti en string + concatenation
-"5" * 6 = 30        // = 5 * 6; string * number = number, le string est converti en number
+//12 + 12 = 24        // number + number = number
+//"12" + 12 = "1212"  // = "12" + "12" le number est converti en string + concatenation
+//"5" * 6 = 30        // = 5 * 6; string * number = number, le string est converti en number
 
 //concatenation = collage de 2 strings
 "bonjour" + " les amis"
+
+//gabari de chaine
+console.log(`la valeur de n1 est ${n1} `);
+console.log( "la valeur de n1 est " + n1);
+
