@@ -13,7 +13,7 @@ console.log(nom);
 
 //prompt retourne toujours une string
 let nombre = prompt("veuillez entrer un nombre")
-console.log(typeof nombre 1)
+console.log(typeof nombre);
 
-let nombre2 = number /(prompt("veuillez entrer un nombre"))
-console.group(typrof nombre2);
+let nombre2 = Number(prompt("veuillez entrer un nombre"));
+console.log(typeof nombre2);
